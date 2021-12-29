@@ -1,0 +1,7 @@
+// connect to mongodb instance 
+mongoose.connect(config.dbUrl, {server: {socketOptions: {keepAlive: 120}}});
+
+
+// check if var asdf matches the regex for a valid mongo id
+asdf.match(/^[0-9a-fA-F]{24}$/)
+

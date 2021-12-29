@@ -1,0 +1,9 @@
+[submodule "coupon-frontend"]
+	path = coupon-frontend
+	url = git@github.com:Ppang0405/coupon-frontend.git
+[submodule "dorm-supplies-api"]
+	path = dorm-supplies-api
+	url = git@github.com:Ppang0405/dorm-supplies-api.git
+[submodule "bootcamp"]
+	path = bootcamp
+	url = git@github.com:Ppang0405/bootcamp.git
